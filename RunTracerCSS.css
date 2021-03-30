@@ -1,0 +1,23 @@
+h1 {
+    color: cornflowerblue;
+    text-align: center;
+    font-family: Papyrus;
+}
+
+#toolbar {
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 5px;
+    margin: 11px;
+    padding: 25px;
+}
+
+#distanceBar {
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 5px;
+    margin: 11px;
+    padding: 25px;
+}
+
+#distance {
+    font-size: 18px;
+}
