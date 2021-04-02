@@ -15,4 +15,4 @@ To find a starting location on the map, you can first search a location using th
 
 ### Example Route
 
-![ExampleRoute](RunTracer.png)
+![ExampleRoute](./png/RunTracer.png)
